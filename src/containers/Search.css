@@ -1,0 +1,23 @@
+.dropdown{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.upload{
+    width: 140px;
+    display: flex;
+    justify-content: center;
+}
+
+.card-bottom{
+    display: flex;
+    align-items: center;
+}
+
+.right-side-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+}

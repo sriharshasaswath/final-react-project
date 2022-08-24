@@ -1,0 +1,44 @@
+.first-container{
+    display: flex;
+    background-color: #02a8f4;
+    color: white;
+    justify-content: space-between;
+    width: 235px;
+    align-items: center;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.second-container{
+    display: flex;
+    background-color: #9d27b1;
+    color: white;
+    justify-content: space-between;
+    width: 235px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.top-part{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.chart-container{
+    display: flex;
+    justify-content: space-between;
+    width: 550px;
+    margin-top: 30px;
+    background-color: white;
+    padding: 20px;
+    padding-top: 5px;
+    margin-right: 20px;
+}
+
+.chart-containers{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
